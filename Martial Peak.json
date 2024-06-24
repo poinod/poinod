@@ -4,17 +4,5 @@
   "artist": "Pikapi",
   "author": "Momo (III) & Pikapi",
   "cover": "https://cdn.mangaupdates.com/image/i379729.jpg",
-  "chapters": {
-    "1": {
-      "title": "Chapter 1 – The servant who sweeps",
-      "volume": "",
-      "last_updated": "1719196207",
-      "groups": {
-        "": [
-          "https://drive.google.com/file/d/10ebGhqe_hOTupvkBvb8cJoiyOS_TdWpu/view?usp=drive_link",
-          "https://drive.google.com/file/d/1BZlQq_zWjMfHCN6Ctb6DvWbljskJPzlV/view?usp=drive_link"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
