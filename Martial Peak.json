@@ -6,12 +6,20 @@
   "cover": "https://cdn.mangaupdates.com/image/i379729.jpg",
   "chapters": {
     "1": {
-      "title": "Chapter 1 – The servant who sweeps",
+      "title": "Chapter 1",
       "volume": "",
-      "last_updated": "1719209590",
       "groups": {
-        "": "https://imgur.com/a/mp-1-RDNsxkU"
-      }
+        "AmberScans": "/proxy/api/imgur/chapter/S99lFK9/"
+      },
+      "last_updated": "1719207724"
+    },
+       "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "groups": {
+        "AmberScans": "/proxy/api/imgur/chapter/860GxHQ/"
+      },
+      "last_updated": "1719207724"
     }
   }
 }
