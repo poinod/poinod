@@ -6,20 +6,20 @@
   "cover": "https://cdn.mangaupdates.com/image/i379729.jpg",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
+      "title": "Chapter 1 – The servant who sweeps",
       "volume": "",
+      "last_updated": "1719207724",
       "groups": {
         "AmberScans": "/proxy/api/imgur/chapter/S99lFK9/"
-      },
-      "last_updated": "1719207724"
+      }
     },
-       "2": {
-      "title": "Chapter 2",
+    "2": {
+      "title": "Chapter 2 – Breaking through the wall and not looking back",
       "volume": "",
+      "last_updated": "1719207724",
       "groups": {
         "AmberScans": "/proxy/api/imgur/chapter/860GxHQ/"
-      },
-      "last_updated": "1719207724"
+      }
     }
   }
 }
