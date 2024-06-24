@@ -16,15 +16,13 @@
         ]
       }
     },
-    "2": {
-      "title": "2",
-      "volume": "",
-      "last_updated": "1719207724",
+     "2": {
+      "title": "Chapter 2",
+      "volume": "Vol. 1",
       "groups": {
-        "": [
-          "/proxy/api/imgur/chapter/RDNsxkU/"
-        ]
-      }
+        "": "/proxy/api/imgur/chapter/RDNsxkU/"
+      },
+      "last_updated": "1719207724"
     }
   }
 }
