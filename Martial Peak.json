@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1719207724",
       "groups": {
-        "AmberScans": "/proxy/api/imgur/chapter/S99lFK9/"
+        "": "/proxy/api/imgur/chapter/S99lFK9/"
       }
     },
     "2": {
@@ -18,7 +18,15 @@
       "volume": "",
       "last_updated": "1719207724",
       "groups": {
-        "AmberScans": "/proxy/api/imgur/chapter/860GxHQ/"
+        "": "/proxy/api/imgur/chapter/860GxHQ/"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1719298791",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9b4ZgeZ/"
       }
     }
   }
